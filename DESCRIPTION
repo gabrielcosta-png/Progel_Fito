@@ -1,0 +1,11 @@
+Package: ProgelApp
+Type: Package
+Title: Progel - Inventário Florestal
+Version: 0.1.0
+Author: Nome do Autor
+Maintainer: Nome do Autor <email@example.com>
+Description: Aplicativo Shiny para inventário florestal.
+License: GPL-3
+Imports: shiny, readxl, dplyr, ggplot2, tidyr, forcats, writexl, gridExtra
+Encoding: UTF-8
+LazyData: true
